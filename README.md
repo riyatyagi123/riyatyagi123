@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile ✨
 
-I'm an AI/ML Engineering student from 🇮🇳 India who enjoys building intelligent systems, exploring Generative AI, and contributing to Open Source.
+I'm an AI/ML Engineering student from India who enjoys building intelligent systems, exploring Generative AI, and contributing to Open Source.
 
 ---
 
