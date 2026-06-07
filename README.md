@@ -37,9 +37,7 @@ I'm an AI/ML Engineering student from 🇮🇳 India who enjoys building intelli
 ## 🏆 Achievements
 
 - 🥉 Top 3 – NPCI FinFiesta Hackathon (1152+ Teams)
-- 🎯 Smart India Hackathon Finalist
 - 🤖 ACE Hack 4.0 Finalist
-- 🎓 Merit Scholarship Recipient (2 Consecutive Years)
 
 ---
 
@@ -63,13 +61,25 @@ I'm an AI/ML Engineering student from 🇮🇳 India who enjoys building intelli
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-tyagi-9a00822b1)
+<p>
+<a href="https://github.com/riyatyagi123">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/riyatyagi123/)
+<a href="https://www.linkedin.com/in/riya-tyagi-9a00822b1">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
-📧 **Email:** riyatyagi1979@gmail.com
+<a href="mailto:riyatyagi1979@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://leetcode.com/u/riyatyagi123/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+</a>
+</p>
 
 ---
 
