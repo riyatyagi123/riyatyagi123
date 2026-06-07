@@ -57,7 +57,6 @@ I'm an AI/ML Engineering student from India who enjoys building intelligent syst
 - Retrieval-Augmented Generation (RAG)
 - Advanced Deep Learning
 - Open Source Development
-- System Design Fundamentals
 
 ---
 
