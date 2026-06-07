@@ -1,19 +1,96 @@
-# Hi, I'm Riya Tyagi 👋
+# 👋 Hey there! I'm Riya Tyagi
 
-AI/ML Engineer passionate about Deep Learning, NLP , Generative AI, and Open Source.
+Welcome to my GitHub profile ✨
 
-## 🎓 Education
+I'm an AI/ML Engineering student from 🇮🇳 India who enjoys building intelligent systems, exploring Generative AI, and contributing to Open Source.
 
-* B.Tech CSE (AI & ML), Sharda University
-* GPA: 9.46/10
+---
 
-## 💻 Skills
+## 💻 Technologies & Tools
 
-Python • Java • SQL • Flask • Git • REST APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-Machine Learning • Deep Learning • NLP • Generative AI • RAG
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
 
-## 📫 Connect With Me
+---
 
-* LinkedIn: linkedin.com/in/riya-tyagi-9a00822b1
-* LeetCode: leetcode.com/u/riyatyagi123
+## 🎓 About Me
+
+- 📚 B.Tech CSE (AI & ML) Student
+- 🏫 Sharda University
+- 🏅 GPA: 9.46 / 10
+- 🌱 Passionate about Artificial Intelligence and Open Source
+- 🚀 Always learning and building new things
+- 🤝 Open to collaboration and innovative ideas
+
+---
+
+## 🏆 Achievements
+
+- 🥉 Top 3 – NPCI FinFiesta Hackathon (1152+ Teams)
+- 🎯 Smart India Hackathon Finalist
+- 🤖 ACE Hack 4.0 Finalist
+- 🎓 Merit Scholarship Recipient (2 Consecutive Years)
+
+---
+
+## 🎯 Goals
+
+- Contribute consistently to Open Source
+- Build impactful AI-powered solutions
+- Strengthen Software Engineering skills
+- Explore real-world applications of Generative AI
+- Keep learning and growing every day
+
+---
+
+## 📖 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Advanced Deep Learning
+- Open Source Development
+- System Design Fundamentals
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-tyagi-9a00822b1)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/riyatyagi123/)
+
+📧 **Email:** riyatyagi1979@gmail.com
+
+---
+
+## 📊 GitHub Statistics
+
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyatyagi123&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riyatyagi123&layout=compact&theme=github_dark)
+
+---
+
+## 📜 Favorite Quote
+
+> *"Success is the sum of small efforts, repeated day in and day out."*
+
+---
+
+### ✨ Fun Fact
+
+I enjoy transforming ideas into practical AI-powered solutions and continuously challenging myself through hackathons, open-source contributions, and new technologies.
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build something amazing together.
