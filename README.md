@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Riya Tyagi 👋
 
-<!--
-**riyatyagi123/riyatyagi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer passionate about Deep Learning, NLP , Generative AI, and Open Source.
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* B.Tech CSE (AI & ML), Sharda University
+* GPA: 9.46/10
+
+## 💻 Skills
+
+Python • Java • SQL • Flask • Git • REST APIs
+
+Machine Learning • Deep Learning • NLP • Generative AI • RAG
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/riya-tyagi-9a00822b1
+* LeetCode: leetcode.com/u/riyatyagi123
