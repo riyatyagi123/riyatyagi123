@@ -1,13 +1,14 @@
 i am giving you my readme file upate that
-# 👋 Hey there! I'm Riya Tyagi
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
+  Hi, I'm Riya Tyagi
+</h1>
 
 Welcome to my GitHub profile ✨
 
 I'm an AI/ML Engineering student from India who enjoys building intelligent systems, exploring Generative AI, and contributing to Open Source.
 
 ---
-
-## 💻 Technologies & Tools
 
 ## 💻 Technologies & Tools
 
