@@ -1,4 +1,3 @@
-i am giving you my readme file upate that
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
   Hi, I'm Riya Tyagi
