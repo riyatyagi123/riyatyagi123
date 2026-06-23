@@ -1,68 +1,99 @@
 # 👋 Hey there! I'm Riya Tyagi
 
-Welcome to my GitHub profile ✨
+<p align="center">
 
-I'm an AI/ML Engineering student from India who enjoys building intelligent systems, exploring Generative AI, and contributing to Open Source.
+AI/ML Engineer • Open Source Contributor • GenAI Enthusiast
 
----
+Building intelligent systems with Python, Flask, LLMs, ASR and TTS
 
-## 💻 Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
+</p>
 
 ---
 
-## 🎓 About Me
+## 🚀 About Me
 
-- 📚 B.Tech CSE (AI & ML) Student
-- 🏫 Sharda University
-- 🏅 GPA: 9.46 / 10
-- 🌱 Passionate about Artificial Intelligence and Open Source
-- 🚀 Always learning and building new things
-- 🤝 Open to collaboration and innovative ideas
-
----
-
-## 🏆 Achievements
-
-- 🥉 Top 3 – NPCI FinFiesta Hackathon (1152+ Teams)
-- 🤖 ACE Hack 4.0 Finalist
+- 🎓 B.Tech CSE (AI & ML) @ Sharda University
+- 🤖 AI/ML Engineering Intern
+- 🌱 Exploring LLMs, RAG, ASR, TTS and Agentic AI
+- 🔭 Currently contributing to Open Source
+- 🏆 Top 3 – NPCI FinFiesta Hackathon (1152+ Teams)
+- 🏅 ACE Hack 4.0 Finalist
+- 💬 Ask me about Python, Flask, ML, NLP and GenAI
 
 ---
 
-## 🎯 Goals
+## 🛠 Tech Stack
 
-- Contribute consistently to Open Source
-- Build impactful AI-powered solutions
-- Strengthen Software Engineering skills
-- Explore real-world applications of Generative AI
-- Keep learning and growing every day
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,flask,mysql,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📖 Currently Learning
+## 📊 GitHub Stats
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Advanced Deep Learning
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riyatyagi123&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=riyatyagi123&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Languages Used
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyatyagi123&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=riyatyagi123&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyatyagi123&theme=tokyo-night)
+
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models
+- Retrieval Augmented Generation
+- LangChain & LangSmith
 - Open Source Development
+- Speech AI (ASR/TTS)
 
 ---
 
-## 🔗 Connect with me
+## 🤝 Connect With Me
 
-<p>
+<p align="center">
+
 <a href="https://github.com/riyatyagi123">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
@@ -78,26 +109,13 @@ I'm an AI/ML Engineering student from India who enjoys building intelligent syst
 <a href="https://leetcode.com/u/riyatyagi123/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riyatyagi123&theme=github-dark)
-
----
-
-## 📜 Favorite Quote
+![](https://komarev.com/ghpvc/?username=riyatyagi123&style=for-the-badge)
 
 > *"Success is the sum of small efforts, repeated day in and day out."*
 
----
-
-### ✨ Fun Fact
-
-I enjoy transforming ideas into practical AI-powered solutions and continuously challenging myself through hackathons, open-source contributions, and new technologies.
-
----
-
-⭐ Thanks for visiting my profile! Feel free to connect, collaborate, and build something amazing together.
+⭐ Thanks for visiting my profile!
